@@ -1,0 +1,4 @@
+1)More oranazed code.Less lines if you do same action multiple times(ex . linear array search).
+2)There are 2 ways i know of. send a back a structure that containes many thing or
+ give function an adress of the variable in the RAM ,so that value can be changed inside the function.
+3)It mostly has to do with variables, global variables can be used anywere,local only in function it defined in.
