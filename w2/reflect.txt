@@ -1,0 +1,2 @@
+I learnd how to use right type of constans and apply the correct format.
+I also learnd how to use scanf function.
