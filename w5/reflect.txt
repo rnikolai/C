@@ -1,0 +1,1 @@
+I leard how to create and use stucture type ,as well as, acces the members of  an object of the structure
